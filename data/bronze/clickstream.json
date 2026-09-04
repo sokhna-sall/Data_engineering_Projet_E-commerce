@@ -1,0 +1,5791 @@
+[
+    {
+        "Session ID": "SESS_000003E9",
+        "Date/Heure de clic": "2026-06-07T18:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0058",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000003E9",
+        "Date/Heure de clic": "2026-06-07T18:50:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0058",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000003EA",
+        "Date/Heure de clic": "2026-06-07T14:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0014",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000003EB",
+        "Date/Heure de clic": "2026-06-07T11:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000003EB",
+        "Date/Heure de clic": "2026-06-07T11:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000003EC",
+        "Date/Heure de clic": "2026-06-07T19:35:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000003EC",
+        "Date/Heure de clic": "2026-06-07T19:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000003ED",
+        "Date/Heure de clic": "2026-06-07T13:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0084",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_000003ED",
+        "Date/Heure de clic": "2026-06-07T13:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0084",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_000003EE",
+        "Date/Heure de clic": "2026-06-07T18:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000003EE",
+        "Date/Heure de clic": "2026-06-07T18:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000003EF",
+        "Date/Heure de clic": "2026-06-07T16:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000003EF",
+        "Date/Heure de clic": "2026-06-07T16:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000003F0",
+        "Date/Heure de clic": "2026-06-07T09:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000003F0",
+        "Date/Heure de clic": "2026-06-07T09:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000003F1",
+        "Date/Heure de clic": "2026-06-07T20:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000003F1",
+        "Date/Heure de clic": "2026-06-07T20:13:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000003F2",
+        "Date/Heure de clic": "2026-06-07T20:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000003F2",
+        "Date/Heure de clic": "2026-06-07T20:19:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000003F3",
+        "Date/Heure de clic": "2026-06-07T09:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000003F3",
+        "Date/Heure de clic": "2026-06-07T10:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000003F4",
+        "Date/Heure de clic": "2026-06-07T09:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0040",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000003F4",
+        "Date/Heure de clic": "2026-06-07T09:07:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0040",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000003F5",
+        "Date/Heure de clic": "2026-06-07T16:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0026",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000003F5",
+        "Date/Heure de clic": "2026-06-07T16:20:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0026",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000003F6",
+        "Date/Heure de clic": "2026-06-07T20:46:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000003F6",
+        "Date/Heure de clic": "2026-06-07T20:51:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000003F7",
+        "Date/Heure de clic": "2026-06-07T15:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000003F7",
+        "Date/Heure de clic": "2026-06-07T15:59:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000003F8",
+        "Date/Heure de clic": "2026-06-08T19:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000003F9",
+        "Date/Heure de clic": "2026-06-08T13:04:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000003F9",
+        "Date/Heure de clic": "2026-06-08T13:09:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000003FA",
+        "Date/Heure de clic": "2026-06-08T15:15:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000003FA",
+        "Date/Heure de clic": "2026-06-08T15:22:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000003FB",
+        "Date/Heure de clic": "2026-06-08T13:27:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000003FB",
+        "Date/Heure de clic": "2026-06-08T13:28:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000003FC",
+        "Date/Heure de clic": "2026-06-08T20:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000003FD",
+        "Date/Heure de clic": "2026-06-08T16:28:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0034",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_000003FE",
+        "Date/Heure de clic": "2026-06-08T15:15:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0033",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000003FE",
+        "Date/Heure de clic": "2026-06-08T15:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0033",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000003FF",
+        "Date/Heure de clic": "2026-06-08T08:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000003FF",
+        "Date/Heure de clic": "2026-06-08T08:42:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000400",
+        "Date/Heure de clic": "2026-06-08T15:13:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0062",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000400",
+        "Date/Heure de clic": "2026-06-08T15:14:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0062",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000401",
+        "Date/Heure de clic": "2026-06-08T12:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000401",
+        "Date/Heure de clic": "2026-06-08T13:07:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000402",
+        "Date/Heure de clic": "2026-06-08T18:45:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000402",
+        "Date/Heure de clic": "2026-06-08T18:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000403",
+        "Date/Heure de clic": "2026-06-08T19:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0017",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000404",
+        "Date/Heure de clic": "2026-06-08T08:37:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000404",
+        "Date/Heure de clic": "2026-06-08T08:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000405",
+        "Date/Heure de clic": "2026-06-08T10:04:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000405",
+        "Date/Heure de clic": "2026-06-08T10:08:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000406",
+        "Date/Heure de clic": "2026-06-08T17:38:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000407",
+        "Date/Heure de clic": "2026-06-09T11:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000407",
+        "Date/Heure de clic": "2026-06-09T11:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000408",
+        "Date/Heure de clic": "2026-06-09T15:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0019",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000408",
+        "Date/Heure de clic": "2026-06-09T15:41:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0019",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000409",
+        "Date/Heure de clic": "2026-06-09T12:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000409",
+        "Date/Heure de clic": "2026-06-09T12:10:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000040A",
+        "Date/Heure de clic": "2026-06-09T16:45:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0030",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000040A",
+        "Date/Heure de clic": "2026-06-09T16:54:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0030",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000040B",
+        "Date/Heure de clic": "2026-06-09T18:06:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000040B",
+        "Date/Heure de clic": "2026-06-09T18:09:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000040C",
+        "Date/Heure de clic": "2026-06-09T10:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000040C",
+        "Date/Heure de clic": "2026-06-09T10:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000040D",
+        "Date/Heure de clic": "2026-06-09T12:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0074",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000040D",
+        "Date/Heure de clic": "2026-06-09T12:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0074",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000040E",
+        "Date/Heure de clic": "2026-06-09T08:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000040E",
+        "Date/Heure de clic": "2026-06-09T08:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000040F",
+        "Date/Heure de clic": "2026-06-09T19:27:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000040F",
+        "Date/Heure de clic": "2026-06-09T19:29:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000410",
+        "Date/Heure de clic": "2026-06-09T16:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000410",
+        "Date/Heure de clic": "2026-06-09T16:12:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000411",
+        "Date/Heure de clic": "2026-06-09T13:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000411",
+        "Date/Heure de clic": "2026-06-09T13:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000412",
+        "Date/Heure de clic": "2026-06-09T13:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000412",
+        "Date/Heure de clic": "2026-06-09T13:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000413",
+        "Date/Heure de clic": "2026-06-09T14:01:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0030",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000414",
+        "Date/Heure de clic": "2026-06-09T20:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0052",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000414",
+        "Date/Heure de clic": "2026-06-09T20:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0052",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000415",
+        "Date/Heure de clic": "2026-06-09T14:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000416",
+        "Date/Heure de clic": "2026-06-10T11:01:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000416",
+        "Date/Heure de clic": "2026-06-10T11:08:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000417",
+        "Date/Heure de clic": "2026-06-10T13:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000417",
+        "Date/Heure de clic": "2026-06-10T13:50:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000418",
+        "Date/Heure de clic": "2026-06-10T12:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000418",
+        "Date/Heure de clic": "2026-06-10T12:16:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000419",
+        "Date/Heure de clic": "2026-06-10T13:46:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000419",
+        "Date/Heure de clic": "2026-06-10T13:53:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000041A",
+        "Date/Heure de clic": "2026-06-10T11:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0059",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000041B",
+        "Date/Heure de clic": "2026-06-10T16:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_0000041B",
+        "Date/Heure de clic": "2026-06-10T17:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_0000041C",
+        "Date/Heure de clic": "2026-06-10T17:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000041C",
+        "Date/Heure de clic": "2026-06-10T17:22:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000041D",
+        "Date/Heure de clic": "2026-06-10T13:25:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000041D",
+        "Date/Heure de clic": "2026-06-10T13:34:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0095",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000041E",
+        "Date/Heure de clic": "2026-06-10T18:47:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0063",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000041E",
+        "Date/Heure de clic": "2026-06-10T18:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0063",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000041F",
+        "Date/Heure de clic": "2026-06-10T11:27:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000041F",
+        "Date/Heure de clic": "2026-06-10T11:37:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000420",
+        "Date/Heure de clic": "2026-06-10T16:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000420",
+        "Date/Heure de clic": "2026-06-10T16:33:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000421",
+        "Date/Heure de clic": "2026-06-10T18:19:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000421",
+        "Date/Heure de clic": "2026-06-10T18:23:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000422",
+        "Date/Heure de clic": "2026-06-10T15:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000422",
+        "Date/Heure de clic": "2026-06-10T15:41:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000423",
+        "Date/Heure de clic": "2026-06-10T11:45:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000423",
+        "Date/Heure de clic": "2026-06-10T11:53:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000424",
+        "Date/Heure de clic": "2026-06-10T20:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000424",
+        "Date/Heure de clic": "2026-06-10T20:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000425",
+        "Date/Heure de clic": "2026-06-11T18:33:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000425",
+        "Date/Heure de clic": "2026-06-11T18:43:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000426",
+        "Date/Heure de clic": "2026-06-11T19:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_00000426",
+        "Date/Heure de clic": "2026-06-11T20:06:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_00000427",
+        "Date/Heure de clic": "2026-06-11T15:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0030",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000427",
+        "Date/Heure de clic": "2026-06-11T15:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0030",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000428",
+        "Date/Heure de clic": "2026-06-11T12:28:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000429",
+        "Date/Heure de clic": "2026-06-11T12:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000429",
+        "Date/Heure de clic": "2026-06-11T12:30:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000042A",
+        "Date/Heure de clic": "2026-06-11T14:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000042B",
+        "Date/Heure de clic": "2026-06-11T14:26:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000042B",
+        "Date/Heure de clic": "2026-06-11T14:34:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000042C",
+        "Date/Heure de clic": "2026-06-11T14:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0036",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000042C",
+        "Date/Heure de clic": "2026-06-11T14:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0036",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000042D",
+        "Date/Heure de clic": "2026-06-11T13:19:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_0000042D",
+        "Date/Heure de clic": "2026-06-11T13:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_0000042E",
+        "Date/Heure de clic": "2026-06-11T12:27:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000042E",
+        "Date/Heure de clic": "2026-06-11T12:34:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000042F",
+        "Date/Heure de clic": "2026-06-11T19:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0096",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000042F",
+        "Date/Heure de clic": "2026-06-11T19:13:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0096",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000430",
+        "Date/Heure de clic": "2026-06-11T17:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0060",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000431",
+        "Date/Heure de clic": "2026-06-11T10:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000431",
+        "Date/Heure de clic": "2026-06-11T10:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000432",
+        "Date/Heure de clic": "2026-06-11T15:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000432",
+        "Date/Heure de clic": "2026-06-11T15:27:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000433",
+        "Date/Heure de clic": "2026-06-11T09:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0063",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000434",
+        "Date/Heure de clic": "2026-06-12T11:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000435",
+        "Date/Heure de clic": "2026-06-12T10:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000435",
+        "Date/Heure de clic": "2026-06-12T10:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000436",
+        "Date/Heure de clic": "2026-06-12T17:38:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000436",
+        "Date/Heure de clic": "2026-06-12T17:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000437",
+        "Date/Heure de clic": "2026-06-12T08:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000437",
+        "Date/Heure de clic": "2026-06-12T09:06:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000438",
+        "Date/Heure de clic": "2026-06-12T17:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000438",
+        "Date/Heure de clic": "2026-06-12T17:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000439",
+        "Date/Heure de clic": "2026-06-12T20:07:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_00000439",
+        "Date/Heure de clic": "2026-06-12T20:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000043A",
+        "Date/Heure de clic": "2026-06-12T09:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000043A",
+        "Date/Heure de clic": "2026-06-12T09:33:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000043B",
+        "Date/Heure de clic": "2026-06-12T18:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000043B",
+        "Date/Heure de clic": "2026-06-12T19:00:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000043C",
+        "Date/Heure de clic": "2026-06-12T17:51:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000043C",
+        "Date/Heure de clic": "2026-06-12T17:59:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000043D",
+        "Date/Heure de clic": "2026-06-12T13:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0085",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000043D",
+        "Date/Heure de clic": "2026-06-12T13:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0085",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000043E",
+        "Date/Heure de clic": "2026-06-12T20:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000043E",
+        "Date/Heure de clic": "2026-06-12T20:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000043F",
+        "Date/Heure de clic": "2026-06-12T10:31:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0073",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000043F",
+        "Date/Heure de clic": "2026-06-12T10:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0073",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000440",
+        "Date/Heure de clic": "2026-06-12T16:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000440",
+        "Date/Heure de clic": "2026-06-12T16:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000441",
+        "Date/Heure de clic": "2026-06-12T16:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0062",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000441",
+        "Date/Heure de clic": "2026-06-12T16:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0062",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000442",
+        "Date/Heure de clic": "2026-06-12T12:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0012",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000442",
+        "Date/Heure de clic": "2026-06-12T12:18:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0012",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000443",
+        "Date/Heure de clic": "2026-06-13T12:19:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000443",
+        "Date/Heure de clic": "2026-06-13T12:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000444",
+        "Date/Heure de clic": "2026-06-13T11:13:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000444",
+        "Date/Heure de clic": "2026-06-13T11:18:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000445",
+        "Date/Heure de clic": "2026-06-13T12:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000445",
+        "Date/Heure de clic": "2026-06-13T12:19:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000446",
+        "Date/Heure de clic": "2026-06-13T12:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000446",
+        "Date/Heure de clic": "2026-06-13T12:11:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000447",
+        "Date/Heure de clic": "2026-06-13T09:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0026",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000448",
+        "Date/Heure de clic": "2026-06-13T15:28:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000448",
+        "Date/Heure de clic": "2026-06-13T15:29:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000449",
+        "Date/Heure de clic": "2026-06-13T09:25:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000449",
+        "Date/Heure de clic": "2026-06-13T09:35:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000044A",
+        "Date/Heure de clic": "2026-06-13T12:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000044A",
+        "Date/Heure de clic": "2026-06-13T12:07:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000044B",
+        "Date/Heure de clic": "2026-06-13T15:58:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000044B",
+        "Date/Heure de clic": "2026-06-13T16:08:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000044C",
+        "Date/Heure de clic": "2026-06-13T20:13:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000044C",
+        "Date/Heure de clic": "2026-06-13T20:18:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000044D",
+        "Date/Heure de clic": "2026-06-13T09:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000044E",
+        "Date/Heure de clic": "2026-06-13T15:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000044F",
+        "Date/Heure de clic": "2026-06-13T19:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000044F",
+        "Date/Heure de clic": "2026-06-13T19:59:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000450",
+        "Date/Heure de clic": "2026-06-13T16:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000450",
+        "Date/Heure de clic": "2026-06-13T16:19:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000451",
+        "Date/Heure de clic": "2026-06-13T17:47:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0031",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000451",
+        "Date/Heure de clic": "2026-06-13T17:52:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0031",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000452",
+        "Date/Heure de clic": "2026-06-14T15:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000452",
+        "Date/Heure de clic": "2026-06-14T15:12:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000453",
+        "Date/Heure de clic": "2026-06-14T11:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000453",
+        "Date/Heure de clic": "2026-06-14T11:53:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000454",
+        "Date/Heure de clic": "2026-06-14T20:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000455",
+        "Date/Heure de clic": "2026-06-14T12:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000455",
+        "Date/Heure de clic": "2026-06-14T12:18:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000456",
+        "Date/Heure de clic": "2026-06-14T14:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0070",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000456",
+        "Date/Heure de clic": "2026-06-14T14:23:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0070",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000457",
+        "Date/Heure de clic": "2026-06-14T12:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000457",
+        "Date/Heure de clic": "2026-06-14T12:51:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000458",
+        "Date/Heure de clic": "2026-06-14T12:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000459",
+        "Date/Heure de clic": "2026-06-14T08:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000459",
+        "Date/Heure de clic": "2026-06-14T08:50:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000045A",
+        "Date/Heure de clic": "2026-06-14T13:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0034",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000045A",
+        "Date/Heure de clic": "2026-06-14T13:47:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0034",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000045B",
+        "Date/Heure de clic": "2026-06-14T12:28:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000045B",
+        "Date/Heure de clic": "2026-06-14T12:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000045C",
+        "Date/Heure de clic": "2026-06-14T20:15:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000045C",
+        "Date/Heure de clic": "2026-06-14T20:20:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000045D",
+        "Date/Heure de clic": "2026-06-14T09:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000045D",
+        "Date/Heure de clic": "2026-06-14T09:32:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000045E",
+        "Date/Heure de clic": "2026-06-14T19:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000045E",
+        "Date/Heure de clic": "2026-06-14T19:25:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000045F",
+        "Date/Heure de clic": "2026-06-14T14:12:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000045F",
+        "Date/Heure de clic": "2026-06-14T14:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000460",
+        "Date/Heure de clic": "2026-06-14T13:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000460",
+        "Date/Heure de clic": "2026-06-14T14:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000461",
+        "Date/Heure de clic": "2026-06-15T20:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0052",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000461",
+        "Date/Heure de clic": "2026-06-15T20:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0052",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000462",
+        "Date/Heure de clic": "2026-06-15T08:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000462",
+        "Date/Heure de clic": "2026-06-15T08:27:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000463",
+        "Date/Heure de clic": "2026-06-15T15:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000464",
+        "Date/Heure de clic": "2026-06-15T09:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0085",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000464",
+        "Date/Heure de clic": "2026-06-15T09:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0085",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000465",
+        "Date/Heure de clic": "2026-06-15T18:09:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000466",
+        "Date/Heure de clic": "2026-06-15T17:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000466",
+        "Date/Heure de clic": "2026-06-15T17:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000467",
+        "Date/Heure de clic": "2026-06-15T16:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000467",
+        "Date/Heure de clic": "2026-06-15T16:06:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000468",
+        "Date/Heure de clic": "2026-06-15T09:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000468",
+        "Date/Heure de clic": "2026-06-15T09:50:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000469",
+        "Date/Heure de clic": "2026-06-15T08:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000469",
+        "Date/Heure de clic": "2026-06-15T08:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000046A",
+        "Date/Heure de clic": "2026-06-15T10:15:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000046A",
+        "Date/Heure de clic": "2026-06-15T10:25:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000046B",
+        "Date/Heure de clic": "2026-06-15T17:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000046B",
+        "Date/Heure de clic": "2026-06-15T17:59:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000046C",
+        "Date/Heure de clic": "2026-06-15T11:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0084",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000046C",
+        "Date/Heure de clic": "2026-06-15T11:37:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0084",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000046D",
+        "Date/Heure de clic": "2026-06-15T12:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000046D",
+        "Date/Heure de clic": "2026-06-15T12:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000046E",
+        "Date/Heure de clic": "2026-06-15T12:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000046E",
+        "Date/Heure de clic": "2026-06-15T12:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000046F",
+        "Date/Heure de clic": "2026-06-15T14:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_0000046F",
+        "Date/Heure de clic": "2026-06-15T14:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000470",
+        "Date/Heure de clic": "2026-06-16T17:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000470",
+        "Date/Heure de clic": "2026-06-16T17:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000471",
+        "Date/Heure de clic": "2026-06-16T20:22:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_00000471",
+        "Date/Heure de clic": "2026-06-16T20:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_00000472",
+        "Date/Heure de clic": "2026-06-16T12:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000472",
+        "Date/Heure de clic": "2026-06-16T13:00:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000473",
+        "Date/Heure de clic": "2026-06-16T12:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0026",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000473",
+        "Date/Heure de clic": "2026-06-16T12:23:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0026",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000474",
+        "Date/Heure de clic": "2026-06-16T16:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000474",
+        "Date/Heure de clic": "2026-06-16T16:35:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000475",
+        "Date/Heure de clic": "2026-06-16T19:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000475",
+        "Date/Heure de clic": "2026-06-16T19:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000476",
+        "Date/Heure de clic": "2026-06-16T20:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0019",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000476",
+        "Date/Heure de clic": "2026-06-16T20:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0019",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000477",
+        "Date/Heure de clic": "2026-06-16T08:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000477",
+        "Date/Heure de clic": "2026-06-16T08:24:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000478",
+        "Date/Heure de clic": "2026-06-16T17:24:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0096",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000478",
+        "Date/Heure de clic": "2026-06-16T17:30:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0096",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000479",
+        "Date/Heure de clic": "2026-06-16T08:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000479",
+        "Date/Heure de clic": "2026-06-16T08:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000047A",
+        "Date/Heure de clic": "2026-06-16T18:04:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000047A",
+        "Date/Heure de clic": "2026-06-16T18:12:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000047B",
+        "Date/Heure de clic": "2026-06-16T08:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000047B",
+        "Date/Heure de clic": "2026-06-16T08:10:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000047C",
+        "Date/Heure de clic": "2026-06-16T10:24:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0040",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000047C",
+        "Date/Heure de clic": "2026-06-16T10:33:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0040",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000047D",
+        "Date/Heure de clic": "2026-06-16T18:06:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000047D",
+        "Date/Heure de clic": "2026-06-16T18:16:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000047E",
+        "Date/Heure de clic": "2026-06-16T19:23:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_0000047E",
+        "Date/Heure de clic": "2026-06-16T19:31:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_0000047F",
+        "Date/Heure de clic": "2026-06-17T15:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0034",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000047F",
+        "Date/Heure de clic": "2026-06-17T15:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0034",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000480",
+        "Date/Heure de clic": "2026-06-17T20:36:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000480",
+        "Date/Heure de clic": "2026-06-17T20:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000481",
+        "Date/Heure de clic": "2026-06-17T13:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000482",
+        "Date/Heure de clic": "2026-06-17T12:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000482",
+        "Date/Heure de clic": "2026-06-17T12:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000483",
+        "Date/Heure de clic": "2026-06-17T10:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000483",
+        "Date/Heure de clic": "2026-06-17T10:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000484",
+        "Date/Heure de clic": "2026-06-17T10:47:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000484",
+        "Date/Heure de clic": "2026-06-17T10:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000485",
+        "Date/Heure de clic": "2026-06-17T17:06:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0056",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000485",
+        "Date/Heure de clic": "2026-06-17T17:10:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0056",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000486",
+        "Date/Heure de clic": "2026-06-17T08:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0068",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000486",
+        "Date/Heure de clic": "2026-06-17T08:37:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0068",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000487",
+        "Date/Heure de clic": "2026-06-17T13:38:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0019",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000488",
+        "Date/Heure de clic": "2026-06-17T17:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0026",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000488",
+        "Date/Heure de clic": "2026-06-17T17:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0026",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000489",
+        "Date/Heure de clic": "2026-06-17T12:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000489",
+        "Date/Heure de clic": "2026-06-17T12:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000048A",
+        "Date/Heure de clic": "2026-06-17T18:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000048A",
+        "Date/Heure de clic": "2026-06-17T18:50:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000048B",
+        "Date/Heure de clic": "2026-06-17T14:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000048B",
+        "Date/Heure de clic": "2026-06-17T14:28:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000048C",
+        "Date/Heure de clic": "2026-06-17T14:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000048C",
+        "Date/Heure de clic": "2026-06-17T14:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000048D",
+        "Date/Heure de clic": "2026-06-17T09:27:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000048E",
+        "Date/Heure de clic": "2026-06-18T18:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0062",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000048E",
+        "Date/Heure de clic": "2026-06-18T18:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0062",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000048F",
+        "Date/Heure de clic": "2026-06-18T17:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000048F",
+        "Date/Heure de clic": "2026-06-18T17:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000490",
+        "Date/Heure de clic": "2026-06-18T16:23:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000491",
+        "Date/Heure de clic": "2026-06-18T11:51:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000491",
+        "Date/Heure de clic": "2026-06-18T12:00:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000492",
+        "Date/Heure de clic": "2026-06-18T08:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0087",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000492",
+        "Date/Heure de clic": "2026-06-18T08:16:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0087",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000493",
+        "Date/Heure de clic": "2026-06-18T17:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0033",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000493",
+        "Date/Heure de clic": "2026-06-18T17:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0033",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000494",
+        "Date/Heure de clic": "2026-06-18T14:26:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000494",
+        "Date/Heure de clic": "2026-06-18T14:29:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000495",
+        "Date/Heure de clic": "2026-06-18T17:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000495",
+        "Date/Heure de clic": "2026-06-18T17:08:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000496",
+        "Date/Heure de clic": "2026-06-18T18:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0089",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000496",
+        "Date/Heure de clic": "2026-06-18T18:12:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0089",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000497",
+        "Date/Heure de clic": "2026-06-18T12:13:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000497",
+        "Date/Heure de clic": "2026-06-18T12:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000498",
+        "Date/Heure de clic": "2026-06-18T18:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000498",
+        "Date/Heure de clic": "2026-06-18T18:52:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000499",
+        "Date/Heure de clic": "2026-06-18T08:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0060",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_00000499",
+        "Date/Heure de clic": "2026-06-18T08:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0060",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000049A",
+        "Date/Heure de clic": "2026-06-18T08:31:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000049A",
+        "Date/Heure de clic": "2026-06-18T08:34:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000049B",
+        "Date/Heure de clic": "2026-06-18T16:35:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000049B",
+        "Date/Heure de clic": "2026-06-18T16:41:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000049C",
+        "Date/Heure de clic": "2026-06-18T08:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000049C",
+        "Date/Heure de clic": "2026-06-18T08:35:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000049D",
+        "Date/Heure de clic": "2026-06-19T20:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_0000049D",
+        "Date/Heure de clic": "2026-06-19T20:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_0000049E",
+        "Date/Heure de clic": "2026-06-19T14:37:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000049E",
+        "Date/Heure de clic": "2026-06-19T14:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000049F",
+        "Date/Heure de clic": "2026-06-19T11:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000049F",
+        "Date/Heure de clic": "2026-06-19T11:23:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004A0",
+        "Date/Heure de clic": "2026-06-19T19:52:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004A0",
+        "Date/Heure de clic": "2026-06-19T19:55:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004A1",
+        "Date/Heure de clic": "2026-06-19T11:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000004A1",
+        "Date/Heure de clic": "2026-06-19T11:13:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000004A2",
+        "Date/Heure de clic": "2026-06-19T15:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004A2",
+        "Date/Heure de clic": "2026-06-19T15:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0090",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004A3",
+        "Date/Heure de clic": "2026-06-19T13:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004A3",
+        "Date/Heure de clic": "2026-06-19T14:01:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004A4",
+        "Date/Heure de clic": "2026-06-19T15:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004A4",
+        "Date/Heure de clic": "2026-06-19T15:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004A5",
+        "Date/Heure de clic": "2026-06-19T15:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004A6",
+        "Date/Heure de clic": "2026-06-19T18:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004A6",
+        "Date/Heure de clic": "2026-06-19T18:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004A7",
+        "Date/Heure de clic": "2026-06-19T16:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000004A7",
+        "Date/Heure de clic": "2026-06-19T16:51:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000004A8",
+        "Date/Heure de clic": "2026-06-19T13:38:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_000004A8",
+        "Date/Heure de clic": "2026-06-19T13:41:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_000004A9",
+        "Date/Heure de clic": "2026-06-19T16:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0053",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004AA",
+        "Date/Heure de clic": "2026-06-19T15:33:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004AA",
+        "Date/Heure de clic": "2026-06-19T15:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004AB",
+        "Date/Heure de clic": "2026-06-19T14:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_000004AB",
+        "Date/Heure de clic": "2026-06-19T14:59:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_000004AC",
+        "Date/Heure de clic": "2026-06-20T19:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000004AC",
+        "Date/Heure de clic": "2026-06-20T20:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000004AD",
+        "Date/Heure de clic": "2026-06-20T13:19:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0084",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004AD",
+        "Date/Heure de clic": "2026-06-20T13:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0084",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004AE",
+        "Date/Heure de clic": "2026-06-20T16:24:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004AE",
+        "Date/Heure de clic": "2026-06-20T16:30:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004AF",
+        "Date/Heure de clic": "2026-06-20T16:23:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000004B0",
+        "Date/Heure de clic": "2026-06-20T11:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000004B0",
+        "Date/Heure de clic": "2026-06-20T11:29:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000004B1",
+        "Date/Heure de clic": "2026-06-20T09:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004B1",
+        "Date/Heure de clic": "2026-06-20T09:20:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004B2",
+        "Date/Heure de clic": "2026-06-20T20:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004B3",
+        "Date/Heure de clic": "2026-06-20T10:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0058",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004B3",
+        "Date/Heure de clic": "2026-06-20T10:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0058",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004B4",
+        "Date/Heure de clic": "2026-06-20T13:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000004B4",
+        "Date/Heure de clic": "2026-06-20T13:51:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000004B5",
+        "Date/Heure de clic": "2026-06-20T12:51:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000004B5",
+        "Date/Heure de clic": "2026-06-20T12:55:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000004B6",
+        "Date/Heure de clic": "2026-06-20T15:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004B6",
+        "Date/Heure de clic": "2026-06-20T15:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004B7",
+        "Date/Heure de clic": "2026-06-20T10:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004B7",
+        "Date/Heure de clic": "2026-06-20T11:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004B8",
+        "Date/Heure de clic": "2026-06-20T12:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004B8",
+        "Date/Heure de clic": "2026-06-20T12:10:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004B9",
+        "Date/Heure de clic": "2026-06-20T14:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004B9",
+        "Date/Heure de clic": "2026-06-20T14:09:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004BA",
+        "Date/Heure de clic": "2026-06-20T14:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0063",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004BA",
+        "Date/Heure de clic": "2026-06-20T14:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0063",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004BB",
+        "Date/Heure de clic": "2026-06-21T12:58:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004BB",
+        "Date/Heure de clic": "2026-06-21T13:01:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004BC",
+        "Date/Heure de clic": "2026-06-21T09:01:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000004BC",
+        "Date/Heure de clic": "2026-06-21T09:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000004BD",
+        "Date/Heure de clic": "2026-06-21T11:19:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004BE",
+        "Date/Heure de clic": "2026-06-21T18:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0040",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000004BE",
+        "Date/Heure de clic": "2026-06-21T18:52:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0040",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000004BF",
+        "Date/Heure de clic": "2026-06-21T16:01:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0073",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004BF",
+        "Date/Heure de clic": "2026-06-21T16:11:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0073",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004C0",
+        "Date/Heure de clic": "2026-06-21T14:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004C0",
+        "Date/Heure de clic": "2026-06-21T14:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004C1",
+        "Date/Heure de clic": "2026-06-21T09:33:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004C1",
+        "Date/Heure de clic": "2026-06-21T09:42:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004C2",
+        "Date/Heure de clic": "2026-06-21T13:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_000004C2",
+        "Date/Heure de clic": "2026-06-21T13:22:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_000004C3",
+        "Date/Heure de clic": "2026-06-21T20:37:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004C3",
+        "Date/Heure de clic": "2026-06-21T20:43:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004C4",
+        "Date/Heure de clic": "2026-06-21T13:52:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004C4",
+        "Date/Heure de clic": "2026-06-21T14:00:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004C5",
+        "Date/Heure de clic": "2026-06-21T19:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004C5",
+        "Date/Heure de clic": "2026-06-21T19:50:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004C6",
+        "Date/Heure de clic": "2026-06-21T08:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_000004C6",
+        "Date/Heure de clic": "2026-06-21T08:29:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_000004C7",
+        "Date/Heure de clic": "2026-06-21T12:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004C7",
+        "Date/Heure de clic": "2026-06-21T12:06:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004C8",
+        "Date/Heure de clic": "2026-06-21T12:07:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0016",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004C8",
+        "Date/Heure de clic": "2026-06-21T12:14:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0016",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004C9",
+        "Date/Heure de clic": "2026-06-21T15:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0053",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000004C9",
+        "Date/Heure de clic": "2026-06-21T15:53:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0053",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000004CA",
+        "Date/Heure de clic": "2026-06-22T13:06:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004CB",
+        "Date/Heure de clic": "2026-06-22T12:28:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004CB",
+        "Date/Heure de clic": "2026-06-22T12:35:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004CC",
+        "Date/Heure de clic": "2026-06-22T15:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004CC",
+        "Date/Heure de clic": "2026-06-22T15:08:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004CD",
+        "Date/Heure de clic": "2026-06-22T09:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0091",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004CD",
+        "Date/Heure de clic": "2026-06-22T09:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0091",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004CE",
+        "Date/Heure de clic": "2026-06-22T18:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004CE",
+        "Date/Heure de clic": "2026-06-22T18:53:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004CF",
+        "Date/Heure de clic": "2026-06-22T13:24:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004CF",
+        "Date/Heure de clic": "2026-06-22T13:25:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000004D0",
+        "Date/Heure de clic": "2026-06-22T20:04:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004D0",
+        "Date/Heure de clic": "2026-06-22T20:13:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004D1",
+        "Date/Heure de clic": "2026-06-22T11:07:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000004D2",
+        "Date/Heure de clic": "2026-06-22T16:24:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0033",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004D2",
+        "Date/Heure de clic": "2026-06-22T16:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0033",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004D3",
+        "Date/Heure de clic": "2026-06-22T11:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004D3",
+        "Date/Heure de clic": "2026-06-22T11:47:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000004D4",
+        "Date/Heure de clic": "2026-06-22T15:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004D4",
+        "Date/Heure de clic": "2026-06-22T15:19:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004D5",
+        "Date/Heure de clic": "2026-06-22T16:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004D5",
+        "Date/Heure de clic": "2026-06-22T16:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004D6",
+        "Date/Heure de clic": "2026-06-22T09:12:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000004D6",
+        "Date/Heure de clic": "2026-06-22T09:16:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000004D7",
+        "Date/Heure de clic": "2026-06-22T13:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000004D7",
+        "Date/Heure de clic": "2026-06-22T13:38:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000004D8",
+        "Date/Heure de clic": "2026-06-22T12:25:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004D8",
+        "Date/Heure de clic": "2026-06-22T12:33:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004D9",
+        "Date/Heure de clic": "2026-06-23T13:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004D9",
+        "Date/Heure de clic": "2026-06-23T13:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004DA",
+        "Date/Heure de clic": "2026-06-23T08:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004DB",
+        "Date/Heure de clic": "2026-06-23T10:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004DB",
+        "Date/Heure de clic": "2026-06-23T10:14:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0029",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004DC",
+        "Date/Heure de clic": "2026-06-23T09:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004DD",
+        "Date/Heure de clic": "2026-06-23T10:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000004DD",
+        "Date/Heure de clic": "2026-06-23T10:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_000004DE",
+        "Date/Heure de clic": "2026-06-23T17:37:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000004DF",
+        "Date/Heure de clic": "2026-06-23T19:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004DF",
+        "Date/Heure de clic": "2026-06-23T20:07:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004E0",
+        "Date/Heure de clic": "2026-06-23T08:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004E0",
+        "Date/Heure de clic": "2026-06-23T08:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004E1",
+        "Date/Heure de clic": "2026-06-23T15:56:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0089",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000004E1",
+        "Date/Heure de clic": "2026-06-23T16:01:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0089",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000004E2",
+        "Date/Heure de clic": "2026-06-23T12:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_000004E3",
+        "Date/Heure de clic": "2026-06-23T15:26:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0017",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000004E3",
+        "Date/Heure de clic": "2026-06-23T15:30:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0017",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000004E4",
+        "Date/Heure de clic": "2026-06-23T19:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004E4",
+        "Date/Heure de clic": "2026-06-23T19:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004E5",
+        "Date/Heure de clic": "2026-06-23T09:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004E5",
+        "Date/Heure de clic": "2026-06-23T09:22:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004E6",
+        "Date/Heure de clic": "2026-06-23T09:03:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004E6",
+        "Date/Heure de clic": "2026-06-23T09:10:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004E7",
+        "Date/Heure de clic": "2026-06-23T17:46:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0030",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004E7",
+        "Date/Heure de clic": "2026-06-23T17:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0030",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_000004E8",
+        "Date/Heure de clic": "2026-06-24T14:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0012",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004E8",
+        "Date/Heure de clic": "2026-06-24T14:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0012",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000004E9",
+        "Date/Heure de clic": "2026-06-24T08:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004E9",
+        "Date/Heure de clic": "2026-06-24T08:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004EA",
+        "Date/Heure de clic": "2026-06-24T14:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004EA",
+        "Date/Heure de clic": "2026-06-24T14:14:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004EB",
+        "Date/Heure de clic": "2026-06-24T17:35:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000004EC",
+        "Date/Heure de clic": "2026-06-24T09:24:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004EC",
+        "Date/Heure de clic": "2026-06-24T09:33:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004ED",
+        "Date/Heure de clic": "2026-06-24T09:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0089",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004ED",
+        "Date/Heure de clic": "2026-06-24T09:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0089",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004EE",
+        "Date/Heure de clic": "2026-06-24T13:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0053",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004EF",
+        "Date/Heure de clic": "2026-06-24T14:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0087",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004F0",
+        "Date/Heure de clic": "2026-06-24T19:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0014",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004F0",
+        "Date/Heure de clic": "2026-06-24T19:30:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0014",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_000004F1",
+        "Date/Heure de clic": "2026-06-24T10:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0087",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004F1",
+        "Date/Heure de clic": "2026-06-24T10:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0087",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004F2",
+        "Date/Heure de clic": "2026-06-24T17:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004F2",
+        "Date/Heure de clic": "2026-06-24T17:30:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004F3",
+        "Date/Heure de clic": "2026-06-24T13:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0070",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000004F3",
+        "Date/Heure de clic": "2026-06-24T13:28:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0070",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000004F4",
+        "Date/Heure de clic": "2026-06-24T17:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000004F4",
+        "Date/Heure de clic": "2026-06-24T17:24:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0043",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000004F5",
+        "Date/Heure de clic": "2026-06-24T20:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004F5",
+        "Date/Heure de clic": "2026-06-24T20:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_000004F6",
+        "Date/Heure de clic": "2026-06-24T11:01:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004F6",
+        "Date/Heure de clic": "2026-06-24T11:08:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000004F7",
+        "Date/Heure de clic": "2026-06-25T11:35:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004F7",
+        "Date/Heure de clic": "2026-06-25T11:43:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_000004F8",
+        "Date/Heure de clic": "2026-06-25T13:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0068",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004F8",
+        "Date/Heure de clic": "2026-06-25T13:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0068",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004F9",
+        "Date/Heure de clic": "2026-06-25T12:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004F9",
+        "Date/Heure de clic": "2026-06-25T12:19:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004FA",
+        "Date/Heure de clic": "2026-06-25T13:35:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004FA",
+        "Date/Heure de clic": "2026-06-25T13:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_000004FB",
+        "Date/Heure de clic": "2026-06-25T14:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004FB",
+        "Date/Heure de clic": "2026-06-25T15:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004FC",
+        "Date/Heure de clic": "2026-06-25T19:05:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004FC",
+        "Date/Heure de clic": "2026-06-25T19:13:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000004FD",
+        "Date/Heure de clic": "2026-06-25T12:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004FD",
+        "Date/Heure de clic": "2026-06-25T13:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_000004FE",
+        "Date/Heure de clic": "2026-06-25T11:15:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_000004FF",
+        "Date/Heure de clic": "2026-06-25T18:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000500",
+        "Date/Heure de clic": "2026-06-25T19:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0062",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000501",
+        "Date/Heure de clic": "2026-06-25T16:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000502",
+        "Date/Heure de clic": "2026-06-25T15:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0093",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000503",
+        "Date/Heure de clic": "2026-06-25T12:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000504",
+        "Date/Heure de clic": "2026-06-25T11:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000504",
+        "Date/Heure de clic": "2026-06-25T11:35:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000505",
+        "Date/Heure de clic": "2026-06-25T14:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000505",
+        "Date/Heure de clic": "2026-06-25T14:55:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000506",
+        "Date/Heure de clic": "2026-06-26T15:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000507",
+        "Date/Heure de clic": "2026-06-26T10:46:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000507",
+        "Date/Heure de clic": "2026-06-26T10:51:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000508",
+        "Date/Heure de clic": "2026-06-26T18:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000509",
+        "Date/Heure de clic": "2026-06-26T14:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000509",
+        "Date/Heure de clic": "2026-06-26T14:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000050A",
+        "Date/Heure de clic": "2026-06-26T11:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000050A",
+        "Date/Heure de clic": "2026-06-26T11:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000050B",
+        "Date/Heure de clic": "2026-06-26T12:37:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0044",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000050B",
+        "Date/Heure de clic": "2026-06-26T12:38:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0044",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000050C",
+        "Date/Heure de clic": "2026-06-26T08:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0056",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000050D",
+        "Date/Heure de clic": "2026-06-26T14:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_0000050D",
+        "Date/Heure de clic": "2026-06-26T14:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_0000050E",
+        "Date/Heure de clic": "2026-06-26T11:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000050E",
+        "Date/Heure de clic": "2026-06-26T11:16:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000050F",
+        "Date/Heure de clic": "2026-06-26T15:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0063",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000050F",
+        "Date/Heure de clic": "2026-06-26T15:52:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0063",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000510",
+        "Date/Heure de clic": "2026-06-26T16:45:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000510",
+        "Date/Heure de clic": "2026-06-26T16:55:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000511",
+        "Date/Heure de clic": "2026-06-26T11:36:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000511",
+        "Date/Heure de clic": "2026-06-26T11:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000512",
+        "Date/Heure de clic": "2026-06-26T09:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000512",
+        "Date/Heure de clic": "2026-06-26T09:53:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0076",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000513",
+        "Date/Heure de clic": "2026-06-26T20:03:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000513",
+        "Date/Heure de clic": "2026-06-26T20:12:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000514",
+        "Date/Heure de clic": "2026-06-26T16:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000514",
+        "Date/Heure de clic": "2026-06-26T16:34:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000515",
+        "Date/Heure de clic": "2026-06-27T16:03:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000515",
+        "Date/Heure de clic": "2026-06-27T16:05:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000516",
+        "Date/Heure de clic": "2026-06-27T10:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000517",
+        "Date/Heure de clic": "2026-06-27T13:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000517",
+        "Date/Heure de clic": "2026-06-27T14:04:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0092",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000518",
+        "Date/Heure de clic": "2026-06-27T10:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000518",
+        "Date/Heure de clic": "2026-06-27T10:43:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000519",
+        "Date/Heure de clic": "2026-06-27T16:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000519",
+        "Date/Heure de clic": "2026-06-27T16:12:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000051A",
+        "Date/Heure de clic": "2026-06-27T14:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000051A",
+        "Date/Heure de clic": "2026-06-27T14:38:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_0000051B",
+        "Date/Heure de clic": "2026-06-27T12:12:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000051B",
+        "Date/Heure de clic": "2026-06-27T12:14:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000051C",
+        "Date/Heure de clic": "2026-06-27T17:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000051C",
+        "Date/Heure de clic": "2026-06-27T17:50:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0094",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000051D",
+        "Date/Heure de clic": "2026-06-27T17:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000051D",
+        "Date/Heure de clic": "2026-06-27T17:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000051E",
+        "Date/Heure de clic": "2026-06-27T15:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000051E",
+        "Date/Heure de clic": "2026-06-27T15:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0015",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000051F",
+        "Date/Heure de clic": "2026-06-27T19:36:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000051F",
+        "Date/Heure de clic": "2026-06-27T19:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000520",
+        "Date/Heure de clic": "2026-06-27T18:33:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000520",
+        "Date/Heure de clic": "2026-06-27T18:38:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000521",
+        "Date/Heure de clic": "2026-06-27T19:58:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0081",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000522",
+        "Date/Heure de clic": "2026-06-27T16:31:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0096",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000523",
+        "Date/Heure de clic": "2026-06-27T20:33:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000523",
+        "Date/Heure de clic": "2026-06-27T20:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0054",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000524",
+        "Date/Heure de clic": "2026-06-28T19:09:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0038",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000524",
+        "Date/Heure de clic": "2026-06-28T19:10:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0038",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000525",
+        "Date/Heure de clic": "2026-06-28T12:13:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0059",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000525",
+        "Date/Heure de clic": "2026-06-28T12:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0059",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000526",
+        "Date/Heure de clic": "2026-06-28T08:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000526",
+        "Date/Heure de clic": "2026-06-28T08:27:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000527",
+        "Date/Heure de clic": "2026-06-28T11:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0085",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000527",
+        "Date/Heure de clic": "2026-06-28T11:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0085",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000528",
+        "Date/Heure de clic": "2026-06-28T11:47:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000529",
+        "Date/Heure de clic": "2026-06-28T19:38:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000529",
+        "Date/Heure de clic": "2026-06-28T19:45:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0071",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000052A",
+        "Date/Heure de clic": "2026-06-28T15:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000052A",
+        "Date/Heure de clic": "2026-06-28T15:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0046",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000052B",
+        "Date/Heure de clic": "2026-06-28T15:06:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000052B",
+        "Date/Heure de clic": "2026-06-28T15:14:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000052C",
+        "Date/Heure de clic": "2026-06-28T14:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000052C",
+        "Date/Heure de clic": "2026-06-28T14:06:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000052D",
+        "Date/Heure de clic": "2026-06-28T17:46:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000052D",
+        "Date/Heure de clic": "2026-06-28T17:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0080",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000052E",
+        "Date/Heure de clic": "2026-06-28T17:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000052E",
+        "Date/Heure de clic": "2026-06-28T18:02:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000052F",
+        "Date/Heure de clic": "2026-06-28T15:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000052F",
+        "Date/Heure de clic": "2026-06-28T15:16:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000530",
+        "Date/Heure de clic": "2026-06-28T10:58:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000530",
+        "Date/Heure de clic": "2026-06-28T10:59:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000531",
+        "Date/Heure de clic": "2026-06-28T10:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000531",
+        "Date/Heure de clic": "2026-06-28T10:55:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000532",
+        "Date/Heure de clic": "2026-06-28T13:03:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0074",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000532",
+        "Date/Heure de clic": "2026-06-28T13:13:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0074",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000533",
+        "Date/Heure de clic": "2026-06-29T08:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000533",
+        "Date/Heure de clic": "2026-06-29T08:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000534",
+        "Date/Heure de clic": "2026-06-29T10:15:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000535",
+        "Date/Heure de clic": "2026-06-29T13:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000535",
+        "Date/Heure de clic": "2026-06-29T13:19:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000536",
+        "Date/Heure de clic": "2026-06-29T17:15:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000536",
+        "Date/Heure de clic": "2026-06-29T17:19:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000537",
+        "Date/Heure de clic": "2026-06-29T09:25:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000537",
+        "Date/Heure de clic": "2026-06-29T09:34:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000538",
+        "Date/Heure de clic": "2026-06-29T19:10:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0091",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000539",
+        "Date/Heure de clic": "2026-06-29T17:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000539",
+        "Date/Heure de clic": "2026-06-29T18:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000053A",
+        "Date/Heure de clic": "2026-06-29T15:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000053B",
+        "Date/Heure de clic": "2026-06-29T16:36:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0019",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000053B",
+        "Date/Heure de clic": "2026-06-29T16:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0019",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000053C",
+        "Date/Heure de clic": "2026-06-29T10:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0036",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000053C",
+        "Date/Heure de clic": "2026-06-29T10:55:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0036",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000053D",
+        "Date/Heure de clic": "2026-06-29T17:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000053D",
+        "Date/Heure de clic": "2026-06-29T18:02:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0082",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000053E",
+        "Date/Heure de clic": "2026-06-29T16:47:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000053E",
+        "Date/Heure de clic": "2026-06-29T16:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000053F",
+        "Date/Heure de clic": "2026-06-29T13:38:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_0000053F",
+        "Date/Heure de clic": "2026-06-29T13:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000540",
+        "Date/Heure de clic": "2026-06-29T18:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000540",
+        "Date/Heure de clic": "2026-06-29T18:25:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000541",
+        "Date/Heure de clic": "2026-06-29T14:27:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000542",
+        "Date/Heure de clic": "2026-06-30T10:24:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000542",
+        "Date/Heure de clic": "2026-06-30T10:27:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000543",
+        "Date/Heure de clic": "2026-06-30T08:19:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000543",
+        "Date/Heure de clic": "2026-06-30T08:24:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000544",
+        "Date/Heure de clic": "2026-06-30T14:28:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000544",
+        "Date/Heure de clic": "2026-06-30T14:37:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000545",
+        "Date/Heure de clic": "2026-06-30T13:35:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000546",
+        "Date/Heure de clic": "2026-06-30T14:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000546",
+        "Date/Heure de clic": "2026-06-30T14:07:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0086",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_00000547",
+        "Date/Heure de clic": "2026-06-30T10:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000547",
+        "Date/Heure de clic": "2026-06-30T10:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_00000548",
+        "Date/Heure de clic": "2026-06-30T10:04:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0044",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000549",
+        "Date/Heure de clic": "2026-06-30T12:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000549",
+        "Date/Heure de clic": "2026-06-30T12:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000054A",
+        "Date/Heure de clic": "2026-06-30T17:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000054B",
+        "Date/Heure de clic": "2026-06-30T12:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000054B",
+        "Date/Heure de clic": "2026-06-30T12:06:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0023",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000054C",
+        "Date/Heure de clic": "2026-06-30T14:52:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000054C",
+        "Date/Heure de clic": "2026-06-30T15:02:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0066",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000054D",
+        "Date/Heure de clic": "2026-06-30T19:12:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000054D",
+        "Date/Heure de clic": "2026-06-30T19:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0051",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000054E",
+        "Date/Heure de clic": "2026-06-30T17:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000054E",
+        "Date/Heure de clic": "2026-06-30T17:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000054F",
+        "Date/Heure de clic": "2026-06-30T09:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0060",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000054F",
+        "Date/Heure de clic": "2026-06-30T10:09:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0060",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000550",
+        "Date/Heure de clic": "2026-06-30T15:51:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000550",
+        "Date/Heure de clic": "2026-06-30T15:53:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000551",
+        "Date/Heure de clic": "2026-07-01T09:28:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000551",
+        "Date/Heure de clic": "2026-07-01T09:36:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000552",
+        "Date/Heure de clic": "2026-07-01T20:23:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000552",
+        "Date/Heure de clic": "2026-07-01T20:32:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0079",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000553",
+        "Date/Heure de clic": "2026-07-01T10:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000553",
+        "Date/Heure de clic": "2026-07-01T10:51:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000554",
+        "Date/Heure de clic": "2026-07-01T08:06:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000554",
+        "Date/Heure de clic": "2026-07-01T08:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000555",
+        "Date/Heure de clic": "2026-07-01T14:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000555",
+        "Date/Heure de clic": "2026-07-01T14:39:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000556",
+        "Date/Heure de clic": "2026-07-01T09:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000556",
+        "Date/Heure de clic": "2026-07-01T09:20:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000557",
+        "Date/Heure de clic": "2026-07-01T12:21:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000557",
+        "Date/Heure de clic": "2026-07-01T12:25:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0028",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000558",
+        "Date/Heure de clic": "2026-07-01T19:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000558",
+        "Date/Heure de clic": "2026-07-01T19:46:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000559",
+        "Date/Heure de clic": "2026-07-01T13:41:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_0000055A",
+        "Date/Heure de clic": "2026-07-01T16:11:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0031",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000055A",
+        "Date/Heure de clic": "2026-07-01T16:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0031",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000055B",
+        "Date/Heure de clic": "2026-07-01T10:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_0000055B",
+        "Date/Heure de clic": "2026-07-01T10:47:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_0000055C",
+        "Date/Heure de clic": "2026-07-01T15:37:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_0000055C",
+        "Date/Heure de clic": "2026-07-01T15:38:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_0000055D",
+        "Date/Heure de clic": "2026-07-01T09:51:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000055D",
+        "Date/Heure de clic": "2026-07-01T09:54:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000055E",
+        "Date/Heure de clic": "2026-07-01T09:16:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000055E",
+        "Date/Heure de clic": "2026-07-01T09:24:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000055F",
+        "Date/Heure de clic": "2026-07-01T17:07:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000055F",
+        "Date/Heure de clic": "2026-07-01T17:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0088",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000560",
+        "Date/Heure de clic": "2026-07-02T13:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000561",
+        "Date/Heure de clic": "2026-07-02T17:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0059",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000561",
+        "Date/Heure de clic": "2026-07-02T17:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0059",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000562",
+        "Date/Heure de clic": "2026-07-02T19:58:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0091",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000562",
+        "Date/Heure de clic": "2026-07-02T20:01:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0091",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000563",
+        "Date/Heure de clic": "2026-07-02T13:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000563",
+        "Date/Heure de clic": "2026-07-02T13:54:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000564",
+        "Date/Heure de clic": "2026-07-02T14:35:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000564",
+        "Date/Heure de clic": "2026-07-02T14:43:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0027",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000565",
+        "Date/Heure de clic": "2026-07-02T19:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000565",
+        "Date/Heure de clic": "2026-07-02T19:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0072",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000566",
+        "Date/Heure de clic": "2026-07-02T12:02:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000566",
+        "Date/Heure de clic": "2026-07-02T12:11:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0013",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000567",
+        "Date/Heure de clic": "2026-07-02T19:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0068",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000567",
+        "Date/Heure de clic": "2026-07-02T19:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0068",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000568",
+        "Date/Heure de clic": "2026-07-02T13:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0044",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000568",
+        "Date/Heure de clic": "2026-07-02T13:35:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0044",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000569",
+        "Date/Heure de clic": "2026-07-02T19:53:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000569",
+        "Date/Heure de clic": "2026-07-02T19:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000056A",
+        "Date/Heure de clic": "2026-07-02T12:22:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0014",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000056A",
+        "Date/Heure de clic": "2026-07-02T12:24:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0014",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000056B",
+        "Date/Heure de clic": "2026-07-02T11:51:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0025",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000056B",
+        "Date/Heure de clic": "2026-07-02T11:57:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0025",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_0000056C",
+        "Date/Heure de clic": "2026-07-02T10:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0031",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000056C",
+        "Date/Heure de clic": "2026-07-02T10:54:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0031",
+        "prod_concerne": "PROD_020"
+    },
+    {
+        "Session ID": "SESS_0000056D",
+        "Date/Heure de clic": "2026-07-02T17:34:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0078",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000056E",
+        "Date/Heure de clic": "2026-07-02T17:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000056E",
+        "Date/Heure de clic": "2026-07-02T17:26:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000056F",
+        "Date/Heure de clic": "2026-07-03T19:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000056F",
+        "Date/Heure de clic": "2026-07-03T19:27:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000570",
+        "Date/Heure de clic": "2026-07-03T18:26:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000570",
+        "Date/Heure de clic": "2026-07-03T18:28:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000571",
+        "Date/Heure de clic": "2026-07-03T19:59:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000571",
+        "Date/Heure de clic": "2026-07-03T20:07:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_00000572",
+        "Date/Heure de clic": "2026-07-03T18:42:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000572",
+        "Date/Heure de clic": "2026-07-03T18:44:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000573",
+        "Date/Heure de clic": "2026-07-03T15:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000573",
+        "Date/Heure de clic": "2026-07-03T15:22:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_00000574",
+        "Date/Heure de clic": "2026-07-03T17:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000574",
+        "Date/Heure de clic": "2026-07-03T18:00:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000575",
+        "Date/Heure de clic": "2026-07-03T08:07:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000575",
+        "Date/Heure de clic": "2026-07-03T08:10:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0022",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_00000576",
+        "Date/Heure de clic": "2026-07-03T11:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000576",
+        "Date/Heure de clic": "2026-07-03T11:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000577",
+        "Date/Heure de clic": "2026-07-03T18:23:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000577",
+        "Date/Heure de clic": "2026-07-03T18:29:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0045",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_00000578",
+        "Date/Heure de clic": "2026-07-03T19:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0060",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000578",
+        "Date/Heure de clic": "2026-07-03T19:51:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0060",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000579",
+        "Date/Heure de clic": "2026-07-03T09:08:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_00000579",
+        "Date/Heure de clic": "2026-07-03T09:17:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_016"
+    },
+    {
+        "Session ID": "SESS_0000057A",
+        "Date/Heure de clic": "2026-07-03T09:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000057A",
+        "Date/Heure de clic": "2026-07-03T09:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0099",
+        "prod_concerne": "PROD_011"
+    },
+    {
+        "Session ID": "SESS_0000057B",
+        "Date/Heure de clic": "2026-07-03T09:46:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000057B",
+        "Date/Heure de clic": "2026-07-03T09:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_0000057C",
+        "Date/Heure de clic": "2026-07-03T14:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000057C",
+        "Date/Heure de clic": "2026-07-03T14:52:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0048",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000057D",
+        "Date/Heure de clic": "2026-07-03T08:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000057D",
+        "Date/Heure de clic": "2026-07-03T08:47:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0077",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_0000057E",
+        "Date/Heure de clic": "2026-07-04T10:48:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000057F",
+        "Date/Heure de clic": "2026-07-04T14:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0059",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000057F",
+        "Date/Heure de clic": "2026-07-04T14:24:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0059",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000580",
+        "Date/Heure de clic": "2026-07-04T16:38:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000580",
+        "Date/Heure de clic": "2026-07-04T16:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000581",
+        "Date/Heure de clic": "2026-07-04T18:56:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000581",
+        "Date/Heure de clic": "2026-07-04T19:05:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0098",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000582",
+        "Date/Heure de clic": "2026-07-04T20:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000582",
+        "Date/Heure de clic": "2026-07-04T21:01:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0047",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_00000583",
+        "Date/Heure de clic": "2026-07-04T15:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000583",
+        "Date/Heure de clic": "2026-07-04T15:49:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0024",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000584",
+        "Date/Heure de clic": "2026-07-04T14:55:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000584",
+        "Date/Heure de clic": "2026-07-04T15:02:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_00000585",
+        "Date/Heure de clic": "2026-07-04T20:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000585",
+        "Date/Heure de clic": "2026-07-04T20:32:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_00000586",
+        "Date/Heure de clic": "2026-07-04T12:13:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0018",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_00000587",
+        "Date/Heure de clic": "2026-07-04T16:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0017",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000587",
+        "Date/Heure de clic": "2026-07-04T16:27:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0017",
+        "prod_concerne": "PROD_013"
+    },
+    {
+        "Session ID": "SESS_00000588",
+        "Date/Heure de clic": "2026-07-04T16:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000589",
+        "Date/Heure de clic": "2026-07-04T09:32:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000589",
+        "Date/Heure de clic": "2026-07-04T09:35:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0020",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_0000058A",
+        "Date/Heure de clic": "2026-07-04T19:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000058A",
+        "Date/Heure de clic": "2026-07-04T19:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_0000058B",
+        "Date/Heure de clic": "2026-07-04T15:39:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000058B",
+        "Date/Heure de clic": "2026-07-04T15:44:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000058C",
+        "Date/Heure de clic": "2026-07-04T19:00:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000058D",
+        "Date/Heure de clic": "2026-07-05T20:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0044",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000058E",
+        "Date/Heure de clic": "2026-07-05T16:04:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000058E",
+        "Date/Heure de clic": "2026-07-05T16:14:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0064",
+        "prod_concerne": "PROD_009"
+    },
+    {
+        "Session ID": "SESS_0000058F",
+        "Date/Heure de clic": "2026-07-05T08:31:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_0000058F",
+        "Date/Heure de clic": "2026-07-05T08:34:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0075",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_00000590",
+        "Date/Heure de clic": "2026-07-05T17:43:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0042",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000590",
+        "Date/Heure de clic": "2026-07-05T17:47:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0042",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000591",
+        "Date/Heure de clic": "2026-07-05T08:30:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000591",
+        "Date/Heure de clic": "2026-07-05T08:33:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000592",
+        "Date/Heure de clic": "2026-07-05T20:58:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0014",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000592",
+        "Date/Heure de clic": "2026-07-05T21:05:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0014",
+        "prod_concerne": "PROD_018"
+    },
+    {
+        "Session ID": "SESS_00000593",
+        "Date/Heure de clic": "2026-07-05T19:20:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000593",
+        "Date/Heure de clic": "2026-07-05T19:22:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0041",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000594",
+        "Date/Heure de clic": "2026-07-05T20:33:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000594",
+        "Date/Heure de clic": "2026-07-05T20:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_00000595",
+        "Date/Heure de clic": "2026-07-05T20:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000595",
+        "Date/Heure de clic": "2026-07-05T20:56:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000596",
+        "Date/Heure de clic": "2026-07-05T17:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000596",
+        "Date/Heure de clic": "2026-07-05T18:00:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_00000597",
+        "Date/Heure de clic": "2026-07-05T15:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000597",
+        "Date/Heure de clic": "2026-07-05T15:58:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0057",
+        "prod_concerne": "PROD_019"
+    },
+    {
+        "Session ID": "SESS_00000598",
+        "Date/Heure de clic": "2026-07-05T08:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000598",
+        "Date/Heure de clic": "2026-07-05T08:15:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0010",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_00000599",
+        "Date/Heure de clic": "2026-07-05T11:33:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_00000599",
+        "Date/Heure de clic": "2026-07-05T11:40:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0049",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_0000059A",
+        "Date/Heure de clic": "2026-07-05T19:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0017",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000059B",
+        "Date/Heure de clic": "2026-07-05T14:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000059B",
+        "Date/Heure de clic": "2026-07-05T14:52:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0039",
+        "prod_concerne": "PROD_017"
+    },
+    {
+        "Session ID": "SESS_0000059C",
+        "Date/Heure de clic": "2026-07-06T11:18:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000059C",
+        "Date/Heure de clic": "2026-07-06T11:24:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0065",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000059D",
+        "Date/Heure de clic": "2026-07-06T12:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0050",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_0000059E",
+        "Date/Heure de clic": "2026-07-06T20:49:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000059E",
+        "Date/Heure de clic": "2026-07-06T20:52:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0035",
+        "prod_concerne": "PROD_005"
+    },
+    {
+        "Session ID": "SESS_0000059F",
+        "Date/Heure de clic": "2026-07-06T13:26:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0067",
+        "prod_concerne": "PROD_015"
+    },
+    {
+        "Session ID": "SESS_000005A0",
+        "Date/Heure de clic": "2026-07-06T15:19:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_000005A0",
+        "Date/Heure de clic": "2026-07-06T15:21:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0055",
+        "prod_concerne": "PROD_007"
+    },
+    {
+        "Session ID": "SESS_000005A1",
+        "Date/Heure de clic": "2026-07-06T19:44:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000005A1",
+        "Date/Heure de clic": "2026-07-06T19:48:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0097",
+        "prod_concerne": "PROD_010"
+    },
+    {
+        "Session ID": "SESS_000005A2",
+        "Date/Heure de clic": "2026-07-06T13:25:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000005A2",
+        "Date/Heure de clic": "2026-07-06T13:30:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0021",
+        "prod_concerne": "PROD_008"
+    },
+    {
+        "Session ID": "SESS_000005A3",
+        "Date/Heure de clic": "2026-07-06T14:54:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000005A3",
+        "Date/Heure de clic": "2026-07-06T15:03:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0032",
+        "prod_concerne": "PROD_001"
+    },
+    {
+        "Session ID": "SESS_000005A4",
+        "Date/Heure de clic": "2026-07-06T20:50:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0069",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000005A5",
+        "Date/Heure de clic": "2026-07-06T20:14:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0011",
+        "prod_concerne": "PROD_002"
+    },
+    {
+        "Session ID": "SESS_000005A6",
+        "Date/Heure de clic": "2026-07-06T18:40:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000005A6",
+        "Date/Heure de clic": "2026-07-06T18:42:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0061",
+        "prod_concerne": "PROD_012"
+    },
+    {
+        "Session ID": "SESS_000005A7",
+        "Date/Heure de clic": "2026-07-06T11:57:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0012",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000005A7",
+        "Date/Heure de clic": "2026-07-06T12:00:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0012",
+        "prod_concerne": "PROD_003"
+    },
+    {
+        "Session ID": "SESS_000005A8",
+        "Date/Heure de clic": "2026-07-06T08:29:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0052",
+        "prod_concerne": "PROD_004"
+    },
+    {
+        "Session ID": "SESS_000005A9",
+        "Date/Heure de clic": "2026-07-06T19:25:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000005A9",
+        "Date/Heure de clic": "2026-07-06T19:32:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0083",
+        "prod_concerne": "PROD_014"
+    },
+    {
+        "Session ID": "SESS_000005AA",
+        "Date/Heure de clic": "2026-07-06T12:17:00",
+        "Page visitée / Action": "visite produit",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_006"
+    },
+    {
+        "Session ID": "SESS_000005AA",
+        "Date/Heure de clic": "2026-07-06T12:20:00",
+        "Page visitée / Action": "ajout au panier",
+        "Utilisateur": "USER_0037",
+        "prod_concerne": "PROD_006"
+    }
+]
